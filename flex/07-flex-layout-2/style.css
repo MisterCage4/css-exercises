@@ -56,7 +56,7 @@ a{
 .allcards{
   padding: 50px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 200px;
   flex-wrap: wrap;
 }
